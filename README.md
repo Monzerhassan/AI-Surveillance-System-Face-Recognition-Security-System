@@ -23,7 +23,7 @@ An AI-powered surveillance system that detects and recognizes faces in real-time
 - SQLite
 - Tkinter
 
-  ## 🔮 Future Improvements
+## 🔮 Future Improvements
 - Multi-camera support
 - Web dashboard
 - Cloud database
