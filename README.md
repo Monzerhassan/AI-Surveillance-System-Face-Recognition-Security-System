@@ -43,6 +43,6 @@ pip install -r requirements.txt
 
 ## 👤 Author
 Monzer Hassan  
-IT Support & AI Enthusiast
+IT Specialist & AI Enthusiast
 
 Please contact me to work together on developing this project.
